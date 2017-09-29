@@ -1,2 +1,2 @@
-# SCCSTest
-Spring Cloud Config Test
+# SDX Config
+Spring Cloud Config files for SDX Project
